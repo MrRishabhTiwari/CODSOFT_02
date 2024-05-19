@@ -14,7 +14,7 @@ Backspace functionality: Users can delete the last character in the input field.
 
 **Prerequisites**
 
-Make sure you have Python installed on your system. You can download it from here.
+Make sure you have Python installed on your system.
 
 **Usage**
 
